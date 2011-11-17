@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{c75d12a1-ba24-4c7f-ba63-95da3a465377}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9458a4be-016c-4eda-bde0-f75af653a8b5}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BasicTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdbitset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stddeque.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdfstream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdistream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdlist.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdostream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdpost.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdpre.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdsstream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdstring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdvector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

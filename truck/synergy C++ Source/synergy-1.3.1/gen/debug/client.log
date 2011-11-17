@@ -1,0 +1,17 @@
+﻿빌드 시작: 2011-11-17 오후 10:10:12
+     1>4 노드의 "C:\Users\Pimm\Documents\네이트온 받은 파일\synergy\synergy-1.3.1\synergy-1.3.1\lib\client\client.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 ".\..\..\gen\debug\client.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       Lib:
+         모든 출력이 최신 상태입니다.
+         client.vcxproj -> C:\Users\Pimm\Documents\네이트온 받은 파일\synergy\synergy-1.3.1\synergy-1.3.1\lib\client\.\..\..\gen\debug\client.lib
+       FinalizeBuildStatus:
+         ".\..\..\gen\debug\client.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         ".\..\..\gen\debug\client.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\Pimm\Documents\네이트온 받은 파일\synergy\synergy-1.3.1\synergy-1.3.1\lib\client\client.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:03.33
