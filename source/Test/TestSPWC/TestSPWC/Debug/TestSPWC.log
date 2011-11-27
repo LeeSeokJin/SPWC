@@ -1,0 +1,27 @@
+﻿빌드 시작: 2011-11-27 오후 11:11:17
+     1>2 노드의 "C:\Users\Pimm\SPWC\source\Test\TestSPWC\TestSPWC\TestSPWC.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\TestSPWC.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Server.cpp
+         Server.cpp
+     1>c:\users\pimm\spwc\source\test\testspwc\testspwc\server.cpp(24): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Pimm\SPWC\source\Test\TestSPWC\Debug\TestSPWC.exe" /INCREMENTAL /NOLOGO ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TestSPWC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Pimm\SPWC\source\Test\TestSPWC\Debug\TestSPWC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Pimm\SPWC\source\Test\TestSPWC\Debug\TestSPWC.lib" /MACHINE:X86 Debug\TestSPWC.exe.embed.manifest.res
+         Debug\Server.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\TestSPWC.exe.embed.manifest" /manifest Debug\TestSPWC.exe.intermediate.manifest
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         TestSPWC.vcxproj -> C:\Users\Pimm\SPWC\source\Test\TestSPWC\Debug\TestSPWC.exe
+       FinalizeBuildStatus:
+         "Debug\TestSPWC.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\TestSPWC.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\Pimm\SPWC\source\Test\TestSPWC\TestSPWC\TestSPWC.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.56
